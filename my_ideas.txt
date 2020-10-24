@@ -1,0 +1,23 @@
+
+1) primitive types
+    a. string, int, arrays
+2) expressions
+    a. arithmetic
+        i. add integer
+3) structs
+4) phrases, functions
+
+struct: struct1
+    string: field_one "hello world"
+    int: field_two 7
+    phrase: add "combine" struct1 "add to" value
+
+struct: struct2
+    string: field_one "hello world"
+    int: field_two 7
+
+int: val 7
+string: val2 "hello world"
+
+struct: struct3
+    phrase: "combine" struct1 "and" struct2

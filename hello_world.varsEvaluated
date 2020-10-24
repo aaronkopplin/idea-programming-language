@@ -1,0 +1,4 @@
+int: eight 8
+int: seven 7
+int: fifteen 15
+print: 15
